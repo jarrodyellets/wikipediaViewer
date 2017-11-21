@@ -52,6 +52,7 @@ a:focus {
   list-style-type: none;
   text-align: none;
   width: 250px;
+  cursor: pointer;
 }
 
 .ui-helper-hidden-accessible {
